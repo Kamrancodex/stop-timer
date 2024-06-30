@@ -64,6 +64,7 @@ game-timer/
 │
 ├── src/
 │ ├── components/
+│ │ ├──Player.jsx
 │ │ ├── Timer.jsx
 │ │ └── ResultModal.jsx
 │ ├── App.jsx
